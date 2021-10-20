@@ -1,9 +1,11 @@
 using EjemplosColecciones.Tipos;
 
+Lista.Execute();
+
+Diccionarios.Execute();
+
 Colas.Execute();
 
 TipoStack.Execute();
 
-Lista.Execute();
-
-Diccionarios.Execute();
+ColaPrioridad.Execute();
